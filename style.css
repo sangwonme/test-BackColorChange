@@ -1,6 +1,5 @@
 body{
     margin: 0;
-    /* background-color: gray; */
 }
 
 #pageTitle{
@@ -9,7 +8,6 @@ body{
 }
 
 .container{
-    border: 1px red dashed;
     display: flex;
     height: 100vh;
     justify-content: center;
@@ -26,8 +24,8 @@ body{
     width: 100px;
     height: 100px;
     border-radius: 10px;
-    background-color: aqua;
     margin: 10px auto;
+    cursor: pointer;
 }
 
 .colorCode{
